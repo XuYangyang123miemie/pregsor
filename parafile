@@ -1,0 +1,9 @@
+nt=300,dt=0.004,ft=0.0,fpeak=15
+nxs=1,dxs=0,fxs=350,zs=0.0
+nxo=71,dxo=10,fxo=0,zg=0.0
+v0=2000.0
+nx=71,fx=0.0
+nz=71,fz=0.0
+h=10.0,nbx=0,nbz=0
+itmax=1000,itol=1
+a=0.5,b=1.0
